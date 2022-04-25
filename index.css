@@ -1,0 +1,32 @@
+html {
+    font-size: 65.2%;
+}
+
+button {
+    border: none;
+    font-size: 2rem;
+    padding: 1rem 0.5rem;
+    margin-bottom: 2rem;
+}
+
+button:nth-of-type(1) {
+    background-color: #74b816;
+}
+
+button:nth-of-type(2) {
+    background-color: #d6336c;
+}
+
+button:nth-of-type(3) {
+    background-color: #1c7ed6;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #a9e34b;
+}
+
+li {
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
